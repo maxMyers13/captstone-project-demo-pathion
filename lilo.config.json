@@ -1,0 +1,5 @@
+{
+  "runtime": "web",
+  "clientEntry": "src/main.tsx",
+  "serverEntry": "server/index.ts"
+}
